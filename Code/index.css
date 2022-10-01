@@ -14,7 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     position: relative;
-    /* background-color: black; */
+    background: linear-gradient(blue, purple)
 }
 
 #main {
@@ -79,6 +79,6 @@ body {
     width: 110%;
     height: 125%;
     position: absolute;
-    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,212,255,0) 100%);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,212,255,0) 65%);
     opacity: 35%;
 }
